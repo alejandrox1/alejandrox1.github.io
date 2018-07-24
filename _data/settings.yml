@@ -1,0 +1,45 @@
+#-------------------------------
+# General Site Settings
+
+title: /Proc
+description: Software Engineering
+email: alarcj137@gmail.com
+
+menu:
+- {name: 'Projects', url: ''}
+- {name: 'Blog', url: 'blog.html'}
+- {name: 'About', url: 'about.html'}
+- {name: 'Contact', url: 'contact.html'}
+
+#-------------------------------
+# About Section
+
+about: >
+  # Computers and Mathematics
+
+    I created this blog with one intention in mind: decrease the learning curve in computer science and mathematics.
+    The posts that already exist or will exist (depending where in time you are reading this) are a collection of projects mainly revolving around operating systems, containers, general softare engineering tips and tricks, DevOps/SRE stuff, cryptography, scientific computing and high performance computing. I have spent sometime trying to learn all these subjects and I want to make it easier for other to get started while at the same time providing an avenue for others to criticize my work and practices.
+
+contact: >
+  # Contact
+
+  You may [tweet at me](https://twitter.com/X1alejandro3x).
+
+#-------------------------------
+# Work Section
+
+projects:
+- {name: 'Containers', folder: 'proj-1', file: 'projects/containers.html'}
+- {name: 'Operating Systems', folder: 'proj-2', file: 'projects/os.html'}
+
+#-------------------------------
+# Contact Section
+
+footer: Follow me below
+
+social:
+- {icon: 'twitter', link: 'https://twitter.com/X1alejandro3x'}
+- {icon: 'github', link: 'https://www.github.com/alejandrox1'}
+- {icon: 'linkedin', link: 'http://www.linkedin.com/in/jorge-alarcon-ochoa-b2479a6b/'}
+
+# social network icons available courtesy of http://fontawesome.io/icons/
